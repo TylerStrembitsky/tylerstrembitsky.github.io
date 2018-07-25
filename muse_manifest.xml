@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532500473790">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532500830998">
   <folder name="css">
     <file name="site_global.css" crc="304325836"/>
     <file name="master_a-master.css" crc="186685376" ref="about:portfolio:ashestoashes:index:constellaria"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:portfolio:ashestoashes:index:constellaria"/>
-    <file name="about.css" crc="449276270" ref="about"/>
+    <file name="about.css" crc="15373049" ref="about"/>
     <file name="nomq_about.css" crc="4290406973" ref="about"/>
     <file name="portfolio.css" crc="222625726" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="176285033" ref="portfolio"/>
     <file name="ashestoashes.css" crc="232249304" ref="ashestoashes"/>
     <file name="nomq_ashestoashes.css" crc="4290406973" ref="ashestoashes"/>
-    <file name="index.css" crc="434478441" ref="index"/>
+    <file name="index.css" crc="245167085" ref="index"/>
     <file name="nomq_index.css" crc="4290406973" ref="index"/>
     <file name="constellaria.css" crc="232249304" ref="constellaria"/>
     <file name="nomq_constellaria.css" crc="4290406973" ref="constellaria"/>
@@ -62,8 +62,8 @@
       <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="249774784" seo="true" mt="1532471222757" redirect="true"/>
-  <file name="about.html" crc="3810768737" seo="true" mt="1532471637896" redirect="true"/>
+  <file name="index.html" crc="3798413010" seo="true" mt="1532500786392" redirect="true"/>
+  <file name="about.html" crc="90799008" seo="true" mt="1532500806321" redirect="true"/>
   <file name="portfolio.html" crc="519592713" seo="true" mt="1532500426932" redirect="true"/>
   <file name="ashestoashes.html" crc="4062350701" seo="true" mt="1532472624983" redirect="true"/>
   <file name="constellaria.html" crc="533852082" seo="true" mt="1532472650084" redirect="true"/>
