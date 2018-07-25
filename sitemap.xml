@@ -24,45 +24,45 @@
       <image:loc>http://tylerstrembitsky.com/images/title%20bg_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download.jpg</image:loc>
+      <image:loc>http://tylerstrembitsky.com/images/download.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/title%20bg248x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/title%20bg248x140_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download248x140.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download248x140_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/title%20bg194x109.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/title%20bg194x109_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download194x109.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tylerstrembitsky.com/images/download194x109_2x.jpg</image:loc>
+      <image:loc>http://tylerstrembitsky.com/images/download_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tylerstrembitsky.com/ashestoashes.html</loc>
-    <lastmod>2018-07-24</lastmod>
+    <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(3)326x184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(3)326x184_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(2)326x184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(2)326x184_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(3)_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tylerstrembitsky.com/images/download%20(2)_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tylerstrembitsky.com/constellaria.html</loc>
-    <lastmod>2018-07-24</lastmod>
+    <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
