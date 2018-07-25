@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532537949947">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532538402177">
   <folder name="css">
     <file name="site_global.css" crc="304325836"/>
     <file name="master_a-master.css" crc="534017892" ref="about:portfolio:ashestoashes:index:constellaria"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:portfolio:ashestoashes:index:constellaria"/>
-    <file name="about.css" crc="4003816053" ref="about"/>
-    <file name="portfolio.css" crc="92980401" ref="portfolio"/>
-    <file name="ashestoashes.css" crc="4103930860" ref="ashestoashes"/>
-    <file name="nomq_ashestoashes.css" crc="4255767542" ref="ashestoashes"/>
-    <file name="index.css" crc="409028182" ref="index"/>
-    <file name="constellaria.css" crc="188566825" ref="constellaria"/>
-    <file name="nomq_constellaria.css" crc="4172309327" ref="constellaria"/>
+    <file name="about.css" crc="401077514" ref="about"/>
+    <file name="portfolio.css" crc="4144492053" ref="portfolio"/>
+    <file name="ashestoashes.css" crc="3764822089" ref="ashestoashes"/>
+    <file name="nomq_ashestoashes.css" crc="420882856" ref="ashestoashes"/>
+    <file name="index.css" crc="4184742503" ref="index"/>
+    <file name="constellaria.css" crc="263248481" ref="constellaria"/>
+    <file name="nomq_constellaria.css" crc="4040278088" ref="constellaria"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:ashestoashes:constellaria"/>
@@ -85,9 +85,9 @@
       <caption webpage="constellaria" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="130572598" seo="true" mt="1532504008835" redirect="true"/>
-  <file name="about.html" crc="4243483102" seo="true" mt="1532504008835" redirect="true"/>
-  <file name="portfolio.html" crc="310620292" seo="true" mt="1532535367170" redirect="true"/>
-  <file name="ashestoashes.html" crc="439256829" seo="true" mt="1532535701209" redirect="true"/>
-  <file name="constellaria.html" crc="418615799" seo="true" mt="1532537936394" redirect="true"/>
+  <file name="index.html" crc="143302271" seo="true" mt="1532538239824" redirect="true"/>
+  <file name="about.html" crc="386783873" seo="true" mt="1532538242498" redirect="true"/>
+  <file name="portfolio.html" crc="419162430" seo="true" mt="1532538247465" redirect="true"/>
+  <file name="ashestoashes.html" crc="4217982337" seo="true" mt="1532538281412" redirect="true"/>
+  <file name="constellaria.html" crc="3959705939" seo="true" mt="1532538271093" redirect="true"/>
 </manifest>
