@@ -1,14 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532504740408">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532537949947">
   <folder name="css">
     <file name="site_global.css" crc="304325836"/>
     <file name="master_a-master.css" crc="534017892" ref="about:portfolio:ashestoashes:index:constellaria"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:portfolio:ashestoashes:index:constellaria"/>
     <file name="about.css" crc="4003816053" ref="about"/>
     <file name="portfolio.css" crc="92980401" ref="portfolio"/>
-    <file name="ashestoashes.css" crc="488212372" ref="ashestoashes"/>
-    <file name="nomq_ashestoashes.css" crc="3773345763" ref="ashestoashes"/>
+    <file name="ashestoashes.css" crc="4103930860" ref="ashestoashes"/>
+    <file name="nomq_ashestoashes.css" crc="4255767542" ref="ashestoashes"/>
     <file name="index.css" crc="409028182" ref="index"/>
-    <file name="constellaria.css" crc="3919380436" ref="constellaria"/>
+    <file name="constellaria.css" crc="188566825" ref="constellaria"/>
+    <file name="nomq_constellaria.css" crc="4172309327" ref="constellaria"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:ashestoashes:constellaria"/>
@@ -16,7 +17,7 @@
     <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:ashestoashes:constellaria"/>
     <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:ashestoashes:constellaria"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:ashestoashes:constellaria"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="ashestoashes"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="ashestoashes:constellaria"/>
     <file name="require.js" crc="7928878" ref="index:about:portfolio:ashestoashes:constellaria"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:ashestoashes:constellaria"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:ashestoashes:constellaria"/>
@@ -28,7 +29,7 @@
     <file name="title bg_2x.jpg" crc="464424330" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="portfolio:ashestoashes"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:ashestoashes:constellaria"/>
     <file name="download.png" crc="4261453481" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -59,10 +60,34 @@
     <file name="download (2)_2x.jpg" crc="3967738827" seo="true" ref="ashestoashes">
       <caption webpage="ashestoashes" alt=""/>
     </file>
+    <file name="download (6)326x184.jpg" crc="87817086" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (6)326x184_2x.jpg" crc="265806384" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (5)326x184.jpg" crc="455577831" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (5)326x184_2x.jpg" crc="471191576" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (6).jpg" crc="301230665" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (6)_2x.jpg" crc="3860275243" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (5).jpg" crc="4264778945" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
+    <file name="download (5)_2x.jpg" crc="4212992845" seo="true" ref="constellaria">
+      <caption webpage="constellaria" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="130572598" seo="true" mt="1532504008835" redirect="true"/>
   <file name="about.html" crc="4243483102" seo="true" mt="1532504008835" redirect="true"/>
-  <file name="portfolio.html" crc="310620292" seo="true" mt="1532504008835" redirect="true"/>
-  <file name="ashestoashes.html" crc="4165839429" seo="true" mt="1532504728732" redirect="true"/>
-  <file name="constellaria.html" crc="420383180" seo="true" mt="1532504008835" redirect="true"/>
+  <file name="portfolio.html" crc="310620292" seo="true" mt="1532535367170" redirect="true"/>
+  <file name="ashestoashes.html" crc="439256829" seo="true" mt="1532535701209" redirect="true"/>
+  <file name="constellaria.html" crc="418615799" seo="true" mt="1532537936394" redirect="true"/>
 </manifest>
