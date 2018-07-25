@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532538869308">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tylerstrembitsky.com" resolutions="1x,2x" timestamp="1532539002582">
   <folder name="css">
     <file name="site_global.css" crc="304325836"/>
-    <file name="master_a-master.css" crc="3884465593" ref="about:portfolio:ashestoashes:index:constellaria"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:portfolio:ashestoashes:index:constellaria"/>
-    <file name="about.css" crc="401077514" ref="about"/>
+    <file name="master_a-master.css" crc="534017892" ref="about:portfolio:ashestoashes:index:constellaria"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:ashestoashes:index:constellaria"/>
+    <file name="about.css" crc="3944432254" ref="about"/>
     <file name="portfolio.css" crc="4144492053" ref="portfolio"/>
     <file name="ashestoashes.css" crc="3906142286" ref="ashestoashes"/>
     <file name="nomq_ashestoashes.css" crc="4083014530" ref="ashestoashes"/>
@@ -86,7 +86,7 @@
     </file>
   </folder>
   <file name="index.html" crc="143302271" seo="true" mt="1532538239824" redirect="true"/>
-  <file name="about.html" crc="386783873" seo="true" mt="1532538242498" redirect="true"/>
+  <file name="about.html" crc="4227119548" seo="true" mt="1532538995778" redirect="true"/>
   <file name="portfolio.html" crc="419162430" seo="true" mt="1532538247465" redirect="true"/>
   <file name="ashestoashes.html" crc="3934226309" seo="true" mt="1532538779855" redirect="true"/>
   <file name="constellaria.html" crc="4212126998" seo="true" mt="1532538860169" redirect="true"/>
